@@ -1,17 +1,19 @@
 
-# Project Title
+# 👋 Bonjour à vous qui me lisez
 
-A brief description of what this project does and who it's for
+## <p textalign="center">Je suis un futur Dev Web à la recherche d'une alternance sur 2 ans pour un Bachelor IT.</p>
+
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731929311/bachelorHat_djmxif.jpg">
+  <img src="[https://res.cloudinary.com/dd5nqba3z/image/upload/v1731929311/bachelorHat_djmxif.jpg](https://res.cloudinary.com/dd5nqba3z/image/upload/c_pad,w_195/v1731929311/bachelorHat_djmxif.jpg)">
 </p>
 <p align="center">
-![logoLaPlateforme](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731926576/logoLaPlateforme_195x114_jq5tdv.webp)
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731926576/logoLaPlateforme_195x114_jq5tdv.webp"
 </p>
 
-## 🚀 About Me
-I'm a full stack developer...
+## 🚀 À propos de moi
+Actuellement en reconversion professionnelle, j'ai été longtemps chargé d'affaires dans l'industrie.
+Spécialisé dans l'installation d'actionneurs électriques, mes domaines d'activités sont vastes (relations clients, plans électriques/mécaniques, installation/mise en sercice sur site...)
 
 
 ## Tech Stack
