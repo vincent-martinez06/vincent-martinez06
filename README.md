@@ -1,5 +1,7 @@
 
-## <p textalign="center">👋 Bonjour à vous qui me lisez</p>
+# <p textalign="center">
+  👋 Bonjour à vous qui me lisez
+  </p>
 
 ## <p textalign="center">Je suis un futur Dev Web à la recherche d'une alternance sur 2 ans pour un Bachelor IT.</p>
 
