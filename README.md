@@ -4,7 +4,6 @@
 A brief description of what this project does and who it's for
 
 ![logoLaPlateforme](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731926576/logoLaPlateforme_195x114_jq5tdv.webp)
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## 🚀 About Me
@@ -56,15 +55,9 @@ What did you learn while building this project? What challenges did you face and
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vincent-martinez06)](https://git.io/streak-stats)
-
-
-
-
-
+<p align="center">
+  <img width="460" height="300" src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731929311/bachelorHat_djmxif.jpg">
+</p>
 
 
 
