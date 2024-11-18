@@ -37,7 +37,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [Documentation](https://linktodocumentation)
 
 
-## 🛠 Skills
+## 🛠 Compétences
+!(https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png)
+
 Javascript, HTML, CSS...
 
 
