@@ -1,7 +1,9 @@
 
 # <div align="center">👋 Bonjour à vous qui me lisez</div>
 
-## <p textalign="center">Je suis un futur Dev Web à la recherche d'une alternance sur 2 ans pour un Bachelor IT.</p>
+### <div align="center">Je suis un futur Dev Web à la recherche
+  
+  d'une alternance sur 2 ans pour un Bachelor IT.</div>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/c_pad,w_195/v1731929311/bachelorHat_djmxif.jpg">
