@@ -3,8 +3,12 @@
 
 A brief description of what this project does and who it's for
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731929311/bachelorHat_djmxif.jpg">
+</p>
+<p align="center">
 ![logoLaPlateforme](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731926576/logoLaPlateforme_195x114_jq5tdv.webp)
-
+</p>
 
 ## 🚀 About Me
 I'm a full stack developer...
@@ -54,10 +58,6 @@ What did you learn while building this project? What challenges did you face and
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-<p align="center">
-  <img width="460" height="300" src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731929311/bachelorHat_djmxif.jpg">
-</p>
 
 
 
