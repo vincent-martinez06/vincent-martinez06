@@ -16,13 +16,6 @@ Spécialisé dans l'installation d'actionneurs électriques, mes domaines d'acti
 
 [![Mon LinkedIn](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731943081/icons8-linkedin_s2oxcy.svg)](https://www.linkedin.com/in/vincent-martinez-136718277/)
 
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
@@ -38,10 +31,12 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## 🛠 Compétences
-!(https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png)
-
-Javascript, HTML, CSS...
-
+<p>
+  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png)
+  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-css-48_nokvvp.png)
+  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-py-48_qbzxi2.png)
+  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-js-48_g1ieil.png)
+</p>
 
 ## Lessons Learned
 
@@ -53,15 +48,6 @@ What did you learn while building this project? What challenges did you face and
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 
