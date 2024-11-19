@@ -32,10 +32,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## 🛠 Compétences
 <p>
-  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png)
-  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-css-48_nokvvp.png)
-  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-py-48_qbzxi2.png)
-  ![](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-js-48_g1ieil.png)
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png" hpace="10">
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-css-48_nokvvp.png" hpace="10">
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-py-48_qbzxi2.png" hpace="10">
+  <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-js-48_g1ieil.png" hpace="10">
 </p>
 
 ## Lessons Learned
