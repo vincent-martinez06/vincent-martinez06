@@ -14,9 +14,6 @@
 Actuellement en reconversion professionnelle, j'ai été longtemps chargé d'affaires dans l'industrie.
 Spécialisé dans l'installation d'actionneurs électriques, mes domaines d'activités sont vastes (relations clients, plans électriques/mécaniques, installation/mise en sercice sur site...)
 
-[![Mon LinkedIn](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731943081/icons8-linkedin_s2oxcy.svg)](https://www.linkedin.com/in/vincent-martinez-136718277/)
-
-
 ## 🛠 Compétences
 <p>
   <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945129/icons8-html-48_omgjve.png" hpace="10">
@@ -27,7 +24,8 @@ Spécialisé dans l'installation d'actionneurs électriques, mes domaines d'acti
 
 ## Projets
 
-
+## 🔗 Liens
+[![Mon LinkedIn](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731943081/icons8-linkedin_s2oxcy.svg)](https://www.linkedin.com/in/vincent-martinez-136718277/)
 
 <!---
 vincent-martinez06/vincent-martinez06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
