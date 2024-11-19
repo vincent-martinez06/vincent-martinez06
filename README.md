@@ -22,7 +22,7 @@ Spécialisé dans l'installation d'actionneurs électriques, mes domaines d'acti
   <img src="https://res.cloudinary.com/dd5nqba3z/image/upload/v1731945130/icons8-js-48_g1ieil.png" hpace="10">
 </p>
 
-## Projets
+## 👩‍💻 Projets
 
 ## 🔗 Liens
 [![Mon LinkedIn](https://res.cloudinary.com/dd5nqba3z/image/upload/v1731943081/icons8-linkedin_s2oxcy.svg)](https://www.linkedin.com/in/vincent-martinez-136718277/)
